@@ -7,6 +7,13 @@
     "verified": "12"
   },
   "description": "A simple module that adds a macro to add a small weakness or resistance to NPCs that don't have them.",
+  "packFolders": [
+  {
+    "name": "W&R",
+    "sorting": "a",
+    "color": "#5c50b9",
+    "packs": ["wandr-conditions","wandr-macros"]
+  }],
   "packs": [
     {
       "name": "wandr-conditions",
