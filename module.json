@@ -7,13 +7,6 @@
     "verified": "12"
   },
   "description": "A simple module that adds a macro to add a small weakness or resistance to NPCs that don't have them.",
-  "packFolders": [
-  {
-    "name": "W&R",
-    "sorting": "a",
-    "color": "#5c50b9",
-    "packs": ["wandr-conditions","wandr-macros"]
-  }],
   "packs": [
     {
       "name": "wandr-conditions",
@@ -40,6 +33,13 @@
       "flags": {}
     }
   ],
+  "packFolders": [
+  {
+    "name": "W&R",
+    "sorting": "a",
+    "color": "#5c50b9",
+    "packs": ["wandr-conditions","wandr-macros"]
+  }],
   "url": "https://github.com/Bobalo126/Simple-Weaknesses-and-Resistences",
   "download": "https://github.com/Bobalo126/Simple-Weaknesses-and-Resistences/archive/refs/tags/v1.0.0.zip",
   "manifest": "https://raw.githubusercontent.com/Bobalo126/Simple-Weaknesses-and-Resistences/main/module.json"
