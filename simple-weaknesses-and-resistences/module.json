@@ -1,0 +1,36 @@
+{
+  "id": "simple-weaknesses-and-resistences",
+  "title": "Simple Weaknesses and Resistences",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "A simple module that adds a macro to add a small weakness or resistance to NPCs that don't have them.",
+  "packs": [
+    {
+      "name": "wandr-conditions",
+      "label": "W&R Conditions",
+      "path": "packs/wandr-conditions",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "wandr-macros",
+      "label": "W&R Macros",
+      "path": "packs/wandr-macros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ]
+}
