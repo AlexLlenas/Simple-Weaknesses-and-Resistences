@@ -18,10 +18,7 @@
         "ASSISTANT": "OWNER"
       },
       "system": "pf2e",
-      "flags": {
-        "color": "#5c50b9",
-        "folder": "W&R"
-      }
+      "flags": {}
     },
     {
       "name": "wandr-macros",
@@ -33,10 +30,7 @@
         "ASSISTANT": "OWNER"
       },
       "system": "pf2e",
-      "flags": {
-        "color": "#5c50b9",
-        "folder": "W&R"
-      }
+      "flags": {}
     }
   ],
   "download": "https://github.com/Bobalo126/Simple-Weaknesses-and-Resistences/archive/refs/heads/main.zip",
