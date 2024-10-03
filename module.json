@@ -1,7 +1,6 @@
 {
-{
-  "id": "simple-weaknesses-and-resistences",
-  "title": "Simple Weaknesses and Resistences",
+  "id": "simple-weaknesses-and-resistances",
+  "title": "Simple Weaknesses and Resistances",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "12",
